@@ -5,3 +5,6 @@ Aqui vou ir salvando os projetos que irei fazendo de cursos em python
 
 # api_todo
     api de uma todo_list feita com django, usando viewSets e defaultRouter com o intuito de deixar bem basica mesmo mas pra ser feito em poucos minutos
+
+# api_library
+    api de um cadastro de livros feito com django, bem parecido com o todo_list porem podemos salvar fotos tambem
