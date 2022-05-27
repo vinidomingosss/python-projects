@@ -3,7 +3,7 @@ from django.db import models
 # Create your models here.
 
 def uploadImageBook(instance, filename):
-    return f'(instance.id_book) - (filename)'
+    return f'{instance} - {filename}'
 
 class Books(models.Model):
     title = models.CharField(max_length=255)

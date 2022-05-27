@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad74d7d2-8b44-4dd3-9718-fc4936b8117a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/books/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/migrations/0002_books_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/viewsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/instance.id_book_-_filename" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/instance_9aqj3nM.id_book_-_filename" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/books/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Vinned/Desktop/Brincadeiras-Python/api_library",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vinned/Desktop/Brincadeiras-Python/api_library&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
