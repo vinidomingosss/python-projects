@@ -8,3 +8,6 @@ Aqui vou ir salvando os projetos que irei fazendo de cursos em python
 
 # api_library
     api de um cadastro de livros feito com django, bem parecido com o todo_list porem podemos salvar fotos tambem {banco utilizado foi o sqlite3 padrao}
+
+# playwright_automacao
+    feito automação de uma pagina web, um formulário, usando playwright
