@@ -1,6 +1,6 @@
 Aqui vou ir salvando os projetos que irei fazendo de cursos em python
 
-# login_systema_basic
+# login_system_basic
     Sistema de login feito com tkinter, feito conexão com banco de dados sqlite3
 
 # api_todo
