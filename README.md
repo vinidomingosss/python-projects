@@ -11,3 +11,6 @@ Aqui vou ir salvando os projetos que irei fazendo de cursos em python
 
 # playwright_automacao
     feito automação de uma pagina web, um formulário, usando playwright
+
+# kivy_training
+    app que consulta api externa e retorna cotação de 5 moedas

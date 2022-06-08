@@ -1,0 +1,40 @@
+GridLayout:
+    cols: 5
+    Label:
+        id: moeda1
+        bold: True
+        on_touch_down: btn1.text = 'ERA'
+    Label:
+        id: moeda2
+        bold: True
+        on_touch_down: btn2.text = 'SÓ'
+    Label:
+        id: moeda3
+        bold: True
+        on_touch_down: btn3.text = 'UM'
+    Label:
+        id: moeda4
+        bold: True
+        on_touch_down: btn4.text = 'TESTE'
+    Label:
+        id: moeda5
+        on_touch_down: btn5.text = 'BOY !!'
+        bold: True
+    ToggleButton:
+        id: btn1
+        group: 'dau'
+        on_press: btn1.text = moeda1.text
+    ToggleButton:
+        id: btn2
+        group: 'dau'
+        on_press: btn2.text = moeda2.text
+    ToggleButton:
+        id: btn3
+        group: 'dau'
+        on_press: btn3.text = moeda3.text
+    Button:
+        id: btn4
+        on_press: btn4.text = moeda4.text
+    Button:
+        id: btn5
+        on_press: btn5.text = moeda5.text
